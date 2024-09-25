@@ -3,23 +3,29 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dagmawi-dev&label=Profile%20views&color=0e75b6&style=flat" alt="dagmawi-dev" /> </p>
 
-- 🔭 I’m currently working on [Real Estate Agency](https://real-estate-1-ln84.onrender.com/)
-- 🌱 I’m currently learning **Full-Stack Web Development**
-- 👨‍💻 All of my projects are available at [My Portfolio](https://dagmawi-dev.github.io/MyPortfolio/)
-- 📫 How to reach me **dagmawitewodros111@gmail.com**
-- 📅 I’m available for freelance work or collaborations.
+<div align="left">
+  <p>🔭 I’m currently working on <a href="https://real-estate-1-ln84.onrender.com/">Real Estate Agency</a></p>
+  <p>🌱 I’m currently learning **Full-Stack Web Development**</p>
+  <p>👨‍💻 All of my projects are available at <a href="https://dagmawi-dev.github.io/MyPortfolio/">My Portfolio</a></p>
+  <p>📫 How to reach me: <a href="mailto:dagmawitewodros111@gmail.com">dagmawitewodros111@gmail.com</a></p>
+  <p>📅 I’m available for freelance work or collaborations.</p>
+</div>
+
+<div align="center">
+  <img src="https://www.kindpng.com/picc/m/2913718/computer-programmer-png-great-coder-png-transparent-png.png" alt="Great Coder" width="300" />
+</div>
 
 <div align="right">
   <h3>Connect with me:</h3>
   <p align="right">
-    <a href="https://www.linkedin.com/in/yourprofile/" target="_blank" rel="noreferrer">
+    <a href="https://www.linkedin.com/in/dagmawi-tewodros-7005522a2" target="_blank" rel="noreferrer">
       <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="30" height="30" />
     </a>
-    <a href="https://twitter.com/yourprofile" target="_blank" rel="noreferrer">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Twitter" width="30" height="30" />
-    </a>
-    <a href="https://github.com/dagmawi-dev" target="_blank" rel="noreferrer">
+    <a href="https://github.com/Dagmawi-Dev" target="_blank" rel="noreferrer">
       <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="GitHub" width="30" height="30" />
+    </a>
+    <a href="https://t.me/yourtelegramusername" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" alt="Telegram" width="30" height="30" />
     </a>
     <!-- Add more links as needed -->
   </p>
