@@ -3,58 +3,41 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dagmawi-dev&label=Profile%20views&color=0e75b6&style=flat" alt="dagmawi-dev" /> </p>
 
-<div align="left">
-  <div style="display: flex; align-items: center;">
-    <div>
-      <p>🔭 I’m currently working on <a href="https://real-estate-1-ln84.onrender.com/">Real Estate Agency</a></p>
-      <p>🌱 I’m currently learning **Full-Stack Web Development**</p>
-      <p>👨‍💻 All of my projects are available at <a href="https://dagmawi-dev.github.io/MyPortfolio/">My Portfolio</a></p>
-      <p>📫 How to reach me: <a href="mailto:dagmawitewodros111@gmail.com">dagmawitewodros111@gmail.com</a></p>
-      <p>📅 I’m available for freelance work or collaborations.</p>
-    </div>
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvTXApNjn-mmtc75aEYTaqwD_MuZlXAcIVig&s" alt="Coder" width="150" height="150" style="margin-left: 20px;"/>
-  </div>
-</div>
-
 <div align="center">
-  <img src="https://www.kindpng.com/picc/m/2913718/computer-programmer-png-great-coder-png-transparent-png.png" alt="Great Coder" width="300" />
+  <a href="https://github.com/dagmawi-dev">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=dagmawi-dev&data=followers,repositories,stars,commits&theme=viridescent" alt="GitHub WidgetBox">
+  </a>
 </div>
 
-<div align="right">
-  <h3>Connect with me:</h3>
-  <p align="right">
-    <a href="https://www.linkedin.com/in/dagmawi-tewodros-7005522a2" target="_blank" rel="noreferrer">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="30" height="30" />
-    </a>
-    <a href="https://github.com/Dagmawi-Dev" target="_blank" rel="noreferrer">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="GitHub" width="30" height="30" />
-    </a>
-    <a href="https://t.me/Lobibbb" target="_blank" rel="noreferrer">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" alt="Telegram" width="30" height="30" />
-    </a>
-  </p>
+- 🔭 I’m currently working on [Real Estate Agency](https://real-estate-1-ln84.onrender.com/)
+- 🌱 I’m currently learning **Full-Stack Web Development**
+- 👨‍💻 All of my projects are available at [My Portfolio](https://dagmawi-dev.github.io/MyPortfolio/)
+- 📫 How to reach me: **dagmawitewodros111@gmail.com**
+- 📅 I’m available for freelance work or collaborations.
+
+<h3 align="left" style="">Connect with me:</h3>
+<p align="left" style="display: flex">
+  <a href="https://www.linkedin.com/in/dagmawi-tewodros-7005522a2" target="_blank" rel="noreferrer">LinkedIn</a>
+  <a href="https://github.com/Dagmawi-Dev" target="_blank" rel="noreferrer">GitHub</a>
+  <a href="https://t.me/Lobibbb" target="_blank" rel="noreferrer">Telegram</a>
+</p>
+
+<div style="width: 100%; align:center;">
+  <a href="https://github.com/dagmawi-dev?tab=repositories">
+    <img src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,html,css,python&software=linux,windows,vscode&includeNames=true&theme=viridescent" alt="GitHub WidgetBox" style="width: 48%;">
+  </a>
+  <a href="https://github.com/dagmawi-dev?tab=repositories">
+    <img src="https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,yarn&frameworks=react,next&includeNames=true&theme=viridescent" alt="GitHub WidgetBox" style="width: 48%;">
+  </a>
 </div>
 
-<br/>
-
-<div align="center">
-  <h3>Most Used Languages:</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dagmawi-dev&layout=compact&theme=radical" alt="dagmawi-dev" />
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dagmawi-dev&show_icons=true&locale=en&layout=compact&theme=dark" alt="dagmawi-dev" width='33%' height="150px"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dagmawi-dev&theme=2077" width='30%' height="150px"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dagmawi-dev&theme=2077" width='30%' height="150px"/>
 </div>
 
-<div align="center">
-  <h3>Languages and Tools:</h3>
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="Cypress" width="40" height="40"/>
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  </p>
+<div style="display: flex; flex-direction: column; justify-content: space-between; align-items: center; width: 100%; margin: 0 auto;">
+    <img src="https://github-readme-stats.vercel.app/api?username=dagmawi-dev&show_icons=true&locale=en&theme=dark" alt="dagmawi-dev" style="width: 45%; margin-bottom: 20px;" height="150em" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dagmawi-dev&theme=dark" alt="dagmawi-dev" style="width: 45%;" height="150em" />
 </div>
